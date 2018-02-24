@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Kevin Cheng</Authors>
+    <Company>Kevin Studio</Company>
+    <Description>This is Demo ClassLib</Description>
+    <Copyright>Kevin (c)</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>library, Kevin</PackageTags>
+    <PackageReleaseNotes>Release Note</PackageReleaseNotes>
+    <Version>1.0.2</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <IncludeSymbols>true</IncludeSymbols>
+    <IncludeSource>true</IncludeSource>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SourceLink.Create.CommandLine" Version="2.8.0" PrivateAssets="All" />
+  </ItemGroup>
+</Project>
