@@ -9,7 +9,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>library, Kevin</PackageTags>
     <PackageReleaseNotes>Release Note</PackageReleaseNotes>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <IncludeSymbols>true</IncludeSymbols>
     <IncludeSource>true</IncludeSource>
